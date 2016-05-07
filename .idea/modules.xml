@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Programming_for_Informatics.iml" filepath="$PROJECT_DIR$/.idea/Programming_for_Informatics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyCharm-LPTHW/.idea/PyCharm-LPTHW.iml" filepath="$PROJECT_DIR$/../PyCharm-LPTHW/.idea/PyCharm-LPTHW.iml" />
     </modules>
   </component>
 </project>
