@@ -8,8 +8,10 @@ result = 0
 handler = open("regex_sum_206751.txt")
 for line in handler:
     num_list = re.findall("[0-9]+", line)
-    for num in num_list:
-        result_list.append(num)
+    result_list += num_list  # Solucion para ahorrar un loop
+
+#    for num in num_list:
+#        result_list.append(num)
 for num in result_list:
     result += int(num)
 print result

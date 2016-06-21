@@ -9,26 +9,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fd5d76c-43e7-4ea8-a01f-45b8d8c82a59" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso_3-4/01week_01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso_3-4/02week_01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso_3-4/03week_01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Personal_exercises/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Personal_exercises/chaper_2-05.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Personal_exercises/chapter_1-01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Personal_exercises/chapter_2-02.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Personal_exercises/chapter_2-03.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Personal_exercises/chapter_3-01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Personal_exercises/chapter_3-02.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Personal_exercises/chapter_3-03.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_for_informatics.pdf" afterPath="$PROJECT_DIR$/Python_for_informatics.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Programming_for_Informatics.iml" afterPath="$PROJECT_DIR$/.idea/Programming_for_Informatics.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso_3-4/04week_01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso_3-4/04week_02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso_3-4/regex_sum_206751.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Curso_3-4/regex_sum_42.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Curso_3-4/02week_01.py" afterPath="$PROJECT_DIR$/Curso_3-4/02week_01.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Curso_3-4/03week_01.py" afterPath="$PROJECT_DIR$/Curso_3-4/03week_01.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book_code_examples/gmane/Chart.bundle.js" afterPath="$PROJECT_DIR$/book_code_examples/gmane/Chart.bundle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book_code_examples/graphics/graphics.py" afterPath="$PROJECT_DIR$/book_code_examples/graphics/graphics.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book_code_examples/json1.py" afterPath="$PROJECT_DIR$/book_code_examples/json1.py" />
     </list>
     <ignored path="Programming_for_Informatics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,14 +33,15 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$chapter_2_03.coverage" NAME="chapter_2-03 Coverage Results" MODIFIED="1465407523769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal_exercises" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$chapter_3_03.coverage" NAME="chapter_3-03 Coverage Results" MODIFIED="1465422229628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal_exercises" />
-    <SUITE FILE_PATH="coverage/Programming_for_Informatics$02week_01.coverage" NAME="02week_01 Coverage Results" MODIFIED="1466095711539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_3-4" />
-    <SUITE FILE_PATH="coverage/Programming_for_Informatics$04week_02.coverage" NAME="04week_02 Coverage Results" MODIFIED="1462835112822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming_for_Informatics$02week_01.coverage" NAME="02week_01 Coverage Results" MODIFIED="1466114995549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_3-4" />
+    <SUITE FILE_PATH="coverage/Programming_for_Informatics$04week_02.coverage" NAME="04week_02 Coverage Results" MODIFIED="1466472871126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_3-4" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$006week_1.coverage" NAME="006week_1 Coverage Results" MODIFIED="1465336952975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_2-4" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$conectando.coverage" NAME="conectando Coverage Results" MODIFIED="1465953040264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PINGDOM_API/TESTING" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$ex05.coverage" NAME="ex05 Coverage Results" MODIFIED="1463020492737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyCharm-LPTHW" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$01week_01.coverage" NAME="01week_01 Coverage Results" MODIFIED="1465336956535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_3-4" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$geoxml.coverage" NAME="geoxml Coverage Results" MODIFIED="1465422571391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book_code_examples" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$re01.coverage" NAME="re01 Coverage Results" MODIFIED="1465423106774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book_code_examples" />
+    <SUITE FILE_PATH="coverage/Programming_for_Informatics$04week_01.coverage" NAME="04week_01 Coverage Results" MODIFIED="1466361468347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_3-4" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$03week_1.coverage" NAME="03week_1 Coverage Results" MODIFIED="1463322963059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_2-4" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$01week.coverage" NAME="01week Coverage Results" MODIFIED="1463321385208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_2-4" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$chaper_2_05.coverage" NAME="chaper_2-05 Coverage Results" MODIFIED="1465408174406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal_exercises" />
@@ -61,6 +51,7 @@
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$chapter_2_01.coverage" NAME="chapter_2-01 Coverage Results" MODIFIED="1465406999966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal_exercises" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$chapter_3_01.coverage" NAME="chapter_3-01 Coverage Results" MODIFIED="1465420540372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal_exercises" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$nrp_api_001.coverage" NAME="nrp_api_001 Coverage Results" MODIFIED="1465498913779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book_code_examples" />
+    <SUITE FILE_PATH="coverage/Programming_for_Informatics$03week_01.coverage" NAME="03week_01 Coverage Results" MODIFIED="1466267878005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_3-4" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$chapter_3_02.coverage" NAME="chapter_3-02 Coverage Results" MODIFIED="1465420991286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal_exercises" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$04week_03.coverage" NAME="04week_03 Coverage Results" MODIFIED="1463321373041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso_1-4" />
     <SUITE FILE_PATH="coverage/Programming_for_Informatics$json1.coverage" NAME="json1 Coverage Results" MODIFIED="1465423044778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book_code_examples" />
@@ -84,19 +75,43 @@
       <file leaf-file-name="02week_01.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Curso_3-4/02week_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03week_01.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03week_01.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Curso_3-4/03week_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04week_01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Curso_3-4/04week_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04week_02.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Curso_3-4/04week_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="e#311#324#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,6 +179,8 @@
         <option value="$PROJECT_DIR$/../PINGDOM_API/TESTING/conectando.py" />
         <option value="$PROJECT_DIR$/Curso_3-4/02week_01.py" />
         <option value="$PROJECT_DIR$/Curso_3-4/03week_01.py" />
+        <option value="$PROJECT_DIR$/Curso_3-4/04week_01.py" />
+        <option value="$PROJECT_DIR$/Curso_3-4/04week_02.py" />
       </list>
     </option>
   </component>
@@ -243,6 +260,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -311,9 +331,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches">
-        <subPane />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,72 +357,13 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="Push.Settings">
-    <excluded-roots>
-      <path value="$PROJECT_DIR$/../PyCharm-LPTHW" />
-    </excluded-roots>
-  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Personal_exercises" />
       <recent name="$PROJECT_DIR$/Curso_1-4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02week_01">
-    <configuration default="false" name="json1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book_code_examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Programming_for_Informatics" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book_code_examples/json1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="re01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book_code_examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Programming_for_Informatics" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book_code_examples/re01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="nrp_api_001" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book_code_examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Programming_for_Informatics" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Personal_exercises/nrp_api_001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.04week_02">
     <configuration default="false" name="conectando" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -438,6 +396,60 @@
       <module name="Programming_for_Informatics" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_3-4/02week_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="03week_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_3-4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming_for_Informatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_3-4/03week_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="04week_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_3-4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming_for_Informatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_3-4/04week_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="04week_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_3-4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming_for_Informatics" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_3-4/04week_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -722,19 +734,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.json1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.re01" />
-      <item index="2" class="java.lang.String" itemvalue="Python.nrp_api_001" />
-      <item index="3" class="java.lang.String" itemvalue="Python.conectando" />
-      <item index="4" class="java.lang.String" itemvalue="Python.02week_01" />
+      <item index="0" class="java.lang.String" itemvalue="Python.conectando" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02week_01" />
+      <item index="2" class="java.lang.String" itemvalue="Python.03week_01" />
+      <item index="3" class="java.lang.String" itemvalue="Python.04week_01" />
+      <item index="4" class="java.lang.String" itemvalue="Python.04week_02" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.02week_01" />
-        <item index="1" class="java.lang.String" itemvalue="Python.conectando" />
-        <item index="2" class="java.lang.String" itemvalue="Python.nrp_api_001" />
-        <item index="3" class="java.lang.String" itemvalue="Python.re01" />
-        <item index="4" class="java.lang.String" itemvalue="Python.json1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.04week_02" />
+        <item index="1" class="java.lang.String" itemvalue="Python.04week_01" />
+        <item index="2" class="java.lang.String" itemvalue="Python.03week_01" />
+        <item index="3" class="java.lang.String" itemvalue="Python.02week_01" />
+        <item index="4" class="java.lang.String" itemvalue="Python.conectando" />
       </list>
     </recent_temporary>
   </component>
@@ -864,7 +876,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465334829441</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="er">
+      <created>1466096136184</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1466096136184</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -878,25 +897,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22889842" sideWeight="0.49551857" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23175965" sideWeight="0.49551857" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.49713877" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719547" sideWeight="0.51373184" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34560907" sideWeight="0.48855507" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32506204" sideWeight="0.48626816" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24926686" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2684659" sideWeight="0.49287412" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26674938" sideWeight="0.49287412" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14592275" sideWeight="0.50448143" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39800996" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39702234" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -951,34 +970,14 @@
     <MESSAGE value="Semanas 2 y 3&#10;Ficheros de texto para apoyo" />
     <MESSAGE value="Semanas 4 y 5&#10;Ficheros de texto para apoyo" />
     <MESSAGE value="Cambio readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambio readme.md" />
+    <MESSAGE value="er" />
+    <option name="LAST_COMMIT_MESSAGE" value="er" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../PyCharm-LPTHW/ex06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm-LPTHW/ex05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyCharm-LPTHW/ex04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PyCharm-LPTHW/ex03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1302,9 +1301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-          <folding>
-            <element signature="e#77#125#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1312,23 +1308,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Curso_3-4/02week_01.py">
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/urllib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="221" column="0" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Curso_3-4/03week_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Curso_3-4/02week_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Curso_3-4/04week_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Curso_3-4/04week_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#311#324#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
